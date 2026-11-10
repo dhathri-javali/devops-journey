@@ -60,3 +60,14 @@ With 7+ years of IT experience and a background in DevOps, automation and releas
 Learning Git commands and version control.
 
 Testing git staging area.
+
+## Week 1 - Day 2
+
+### Git Branching
+
+Learning objectives:
+
+- Creating branches
+- Switching branches
+- Merging branches
+- Understanding Pull Requests
