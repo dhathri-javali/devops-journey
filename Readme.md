@@ -54,3 +54,9 @@ With 7+ years of IT experience and a background in DevOps, automation and releas
 - Created initial commit
 - Connected local repository to GitHub
 - Practised branch management
+
+## Git Practice
+
+Learning Git commands and version control.
+
+Testing git staging area.
