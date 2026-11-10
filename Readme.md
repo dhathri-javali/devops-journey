@@ -44,3 +44,13 @@ With 7+ years of IT experience and a background in DevOps, automation and releas
 - Weekly assessments
 
 **Target: June 2027**
+
+
+## Week 1 Progress
+
+### Day 1 - Git Fundamentals
+
+- Initialized Git repository
+- Created initial commit
+- Connected local repository to GitHub
+- Practised branch management
