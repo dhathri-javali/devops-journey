@@ -5,3 +5,5 @@ __pycache__/
 .terraform/
 # Generated Python logs
 Week-1/Day-5/pipeline_monitor.log
+# Python virtual environments
+.venv/
