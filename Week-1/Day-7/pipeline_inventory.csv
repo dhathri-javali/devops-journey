@@ -1,0 +1,5 @@
+pipeline,environment,status
+Build-API,DEV,succeeded
+Release-Web,QA,failed
+Production-Deploy,PROD,running
+Payment-Service,UAT,succeeded

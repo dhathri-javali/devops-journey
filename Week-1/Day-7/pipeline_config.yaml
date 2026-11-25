@@ -1,0 +1,10 @@
+pipeline:
+  name: Build-API
+  environment: QA
+  status: succeeded
+  duration: 180
+
+deployment:
+  agent: ubuntu-latest
+  trigger: main
+
